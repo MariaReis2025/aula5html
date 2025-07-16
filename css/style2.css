@@ -1,0 +1,161 @@
+.d2{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    background-image: url(../imagem/maquiagem.jpg);
+    background-size: cover;
+   
+    
+}
+.img1{
+    width: 98%;
+    height: 200px;
+    margin-left: 1%;
+   
+}
+.img2{
+    width: 20%;
+    margin-left: 20%;
+    margin-top: 2%;
+    margin-bottom: 40px;
+    margin-right: 150px;
+    
+    
+}
+.b1{
+    width: 20%;
+    color: white;
+    background-color: rgb(9, 9, 56);
+    margin-left: 10%;
+    font-size: 20px;
+    margin-top: 2%;
+    margin-bottom: 40px;
+    margin-right: 150px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.d3{
+    display: flex;
+    width: 100%;
+    background-image: url(../imagem/imagem.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 2%;
+}
+.b2{
+    width: 20%;
+    color: rgb(8, 8, 80);
+    background-color: rgba(255, 255, 255, 0);
+    font-size: 40px;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 40px;
+    margin-right: 150px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    border: 10px solid rgb(8, 8, 80);
+    text-align: center;
+}
+.d4{
+    display: flex;
+    background: #ba2762;
+    background: linear-gradient(164deg,rgba(186, 39, 98, 1) 20%, rgba(197, 180, 216, 1) 46%, rgba(148, 187, 233, 1) 100%);
+    width: 100%;
+    height: 200px;
+    margin-top: 2%;
+  }
+.img3{
+    width: 20%;
+    margin-left: 20%;
+    margin-top: 2%;
+    margin-bottom: 40px;
+    margin-right: 150px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.b3{
+    width: 20%;
+    color: white;
+    border: 5px solid white;
+    font-size: 40px;
+    margin-left: 7%;
+    margin-top: 2%;
+    margin-bottom: 40px;
+    margin-right: 150px;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 30px;
+}
+.d5{
+    background-color: rgba(44, 44, 116, 0.637);
+    height: 200px;
+    margin-top: 2%;
+}
+.b4{
+    font-size: 80px;
+    margin-left: 45%;
+    padding-top: 3%;
+    color: white;
+}
+.d6{
+     display: flex;
+     background-image: url(../imagem/maquiagem3.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 900px;
+     background-size: cover;
+     flex-wrap: wrap;
+}
+.d7{
+    width: 30%;
+}
+.a1{
+    width: 33%;
+    font-size: 25px;
+    margin-left: 30%;
+    background-color: rgb(57, 57, 196);
+    border: 5px solid blue;
+    color: white;
+    padding-left: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.img4{
+    width:40%;
+    margin-left:28% ;
+    margin-top: 5%;
+    margin-bottom: 5px;
+}
+.a2{
+    width: 30%;
+    font-size: 20px;
+    color: black;
+    border: 10px solid blue;
+    margin-left: 30%;
+    padding-left: 1%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    
+}
+.d8{
+    background: #0c12c9;
+    background: linear-gradient(194deg,rgba(12, 18, 201, 1) 0%, rgba(159, 13, 212, 1) 50%, rgba(242, 116, 5, 1) 100%);
+    height: 1100px;
+    display: flex;
+
+}
+.img5{
+    width: 70%;
+    margin-left: 10%;
+    margin-bottom: 30px
+}
+.a3{
+    font-size: 55px;
+    margin-left:30%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
